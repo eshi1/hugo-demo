@@ -1,22 +1,33 @@
 baseURL: ""
 languageCode: en-us
-title: Demo Hugo Site
+title: Human Pangenome
 theme: PaperMod
 
 params:
   homeInfoParams:
     Title: "Hello"
-    Content: "Welcome to this test page"
+    Content: "Welcome to the Human Pangenome Page!"
   ShowShareButtons: true
 
 menu:
   main:
-    - identifier: categories
-      name: Categories
-      url: /categories/
+    - identifier: aboutus
+      name: About Us
+      url: /aboutus/
       weight: 10
-    - identifier: tags
-      name: Tags
-      url: /tags/
+    - identifier: data
+      name: Data and Resources
+      url: /data/
       weight: 20
-    
+    - identifier: events
+      name: Events and Presentations
+      url: /events/
+      weight: 30
+    - identifier: publications
+      name: Publications
+      url: /publications/
+      weight: 40
+    - identifier: contact
+      name: Contact Us
+      url: /contact/
+      weight: 50
