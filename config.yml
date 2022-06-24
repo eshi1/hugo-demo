@@ -1,7 +1,7 @@
 baseURL: ""
 languageCode: en-us
 title: Human Pangenome
-theme: PaperMod
+theme: "PaperMod"
 
 params:
   homeInfoParams:
