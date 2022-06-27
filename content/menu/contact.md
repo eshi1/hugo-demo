@@ -6,8 +6,6 @@ summary:  "   "
 weight: 5
 ---
 
-Contact us at:
-
 ## Human Pangenome Coordinating Center
 The Human Genome Reference Center at Washington University in St. Louis serves as the coordinating center. They maintain and update the reference sequence; support state-of-the-art reference representations; and educate and coordinate with the research community (including clinicians and basic research scientists).
 

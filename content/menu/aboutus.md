@@ -6,9 +6,11 @@ summary:  "   "
 weight: 1
 ---
 
-| [Consortium Organization](/consortium/) | [Advisory Board](/advisory/)  | Partners | Associate Members |
-| ---         |    ----     |      ---      | ---  |
+| [Consortium Organization](/consortium/) | [Advisory Board](/advisory/)  | Partners | [Associate Members](/associatemembers/) | [GA4GH Commitments](/commitments/)| 
+| ---  |  ----  | ---  | ---  | --- | 
 
+| [COVID-19 Response](/covidresponse/) |
+|---|
 
 ## Overview
 
