@@ -4,6 +4,8 @@ layout: "aboutus"
 url: "/aboutus/"
 summary:  "   "
 weight: 1
+cover: 
+    image: img/about.png
 ---
 
 | [Consortium Organization](/consortium/) | [Advisory Board](/advisory/)  | [Partners](/partners/) | [Associate Members](/associatemembers/) | [GA4GH Commitments](/commitments/)| 
