@@ -1,13 +1,13 @@
 ---
-title: "Publication Protocol"
 url: "/pubprotocol/"
 ---
+## Publication Protocol
 
  April 7, 2020
 
 The goal of the HPRC publication policy is to encourage collaboration and coordination among investigators while ensuring the timely release of research to the scientific community.  The document provides general guidelines and a description of the process for disclosure of planned publications within the consortium through submission.  This policy will be drafted and updated by the HPRC Administration and Coordination Working Group and approved by the HPRC steering committee.
 
-## General Guidelines
+### General Guidelines
 - This policy applies to all manuscripts resulting from HPRC funded activities.
 - It is the responsibility of the HPRC members to take steps necessary to protect any intellectual property rights.
 - Any publication must comply with the NIH Public Access policy and authors should make efforts to publish their work using open access policies when possible.
@@ -19,15 +19,15 @@ The goal of the HPRC publication policy is to encourage collaboration and coordi
     - The Manuscript Tracking Sheet is available through the HPRC WIKI.
 
 
-## Internal Sharing of Planned Manuscripts
+### Internal Sharing of Planned Manuscripts
 - Investigators shall notify the Steering Committee of any publication using HPRC data or analysis that may impinge on planned integrative data analysis by the consortium, so that the potential impact of the pending publication can be discussed.
 - Investigators are encouraged to enter information into the tracking system as early in the process as possible to enable collaboration and minimize overlap
 - Information about manuscripts shared internally within the HPRC will be treated as confidential and may not be shared. 
 - HPRC members are encouraged to sharing information about publications related to the Human Reference even if not directly funded by the HPRC.
 
-## External Sharing of Submitted Manuscripts
+### External Sharing of Submitted Manuscripts
 - When applicable pre-prints of submitted manuscripts must be shared via the appropriate pre-print server prior to or concurrently with the time of submission to a journal.
 - Pre-prints are considered publications and should be cited like papers. 
 
-## Resolution of Disagreements
+### Resolution of Disagreements
 If questions or disagreements arise between investigators they should work to resolve them together.  If a mutually agreeable solution cannot be attained then the investigators may petition the Steering Committee to help resolve the situation.  The decision of the Steering Committee will be final and all parties agree to abide by their decision

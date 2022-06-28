@@ -1,11 +1,10 @@
 ---
-title: "Data and Resources"
 layout: "data"
 url: "/data/"
 summary:  "   "
 weight: 2
 cover: 
-    image: img/dataandr.jpg
+    image: img/p2.png
 ---
 
 ### Year 1 Sequencing Data Release

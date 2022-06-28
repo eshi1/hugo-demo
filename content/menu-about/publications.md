@@ -1,11 +1,10 @@
 ---
-title: "Publications"
 layout: "publications"
 url: "/publications/"
 summary:  "   "
 weight: 4
 cover: 
-    image: img/publications.png
+    image: img/p3.png
 ---
 We would like to acknowledge the National Genome Research Institute (NHGRI) for funding the following grants supporting the creation of the human pangenome reference:  1U41HG010972, 1U01HG010971, 1U01HG010961, 1U01HG010973, 1U01HG010963, and the Human Pangenome Reference Consortium.
 

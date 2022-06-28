@@ -1,10 +1,11 @@
 ---
-title: "YEAR 1 SEQUENCING DATA RELEASE"
 url: "/year1/"
 ---
 
+## Year 1 Sequencing Data Release
+![year1](/img/yearone.png)
 
-### HUMAN PANGENOME REFERENCE CONSORTIUM ANNOUNCED GLOBAL RELEASE OF YEAR 1 SEQUENCING DATA
+### Human Pangenome Reference Consortium Announced Global Release of Year 1 Sequencing Data 
 
 Researchers from the Human Pangenome Reference Consortium announce the open access publication of Year 1 Sequencing data from 30 samples, representing the first major data release from this project. In addition to data produced as part of the HPRC, the release includes data from over 15 additional samples produced outside of the HPRC.
 
@@ -35,3 +36,4 @@ Support:  Support for this study comes from NHGRI:
 
 
 Contact: For additional information about the human pangenome reference consortium or apply to become an associate member, please visit the HPRC Web Site or email the HPRC Coordinating Center hprcadmin@gowustl.onmicrosoft.com.
+

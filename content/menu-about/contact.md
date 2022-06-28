@@ -1,14 +1,13 @@
 ---
-title: "Contact Us"
 layout: "contact"
 url: "/contact/"
 summary:  "   "
 weight: 5
 cover: 
-    image: img/contact.png
+    image: img/p5.png
 ---
 
-## Human Pangenome Coordinating Center
+### Human Pangenome Coordinating Center
 The Human Genome Reference Center at Washington University in St. Louis serves as the coordinating center. They maintain and update the reference sequence; support state-of-the-art reference representations; and educate and coordinate with the research community (including clinicians and basic research scientists).
 
 #### WASH-UCSC-EBI Human Genome Reference Center
