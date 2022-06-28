@@ -8,6 +8,18 @@ params:
     Title: "Hello"
     Content: "Welcome to the Human Pangenome Page!"
   ShowShareButtons: true
+  mainSections: true
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/HumanPangenome"
+    - name: wikipedia
+      url: "http://wiki.humanpangenome.org/"
+    - name: github
+      url: "https://github.com/"
+  label:
+    text: "Human Pangenome"
+    icon: /img/Logo.png
+    iconHeight: 40
 
 menu:
   main:
@@ -16,11 +28,11 @@ menu:
       url: /aboutus/
       weight: 10
     - identifier: data
-      name: Data and Resources
+      name: Data & Resources
       url: /data/
       weight: 20
     - identifier: events
-      name: Events and Presentations
+      name: Events & Presentations
       url: /events/
       weight: 30
     - identifier: publications

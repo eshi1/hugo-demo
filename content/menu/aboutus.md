@@ -6,11 +6,11 @@ summary:  "   "
 weight: 1
 ---
 
-| [Consortium Organization](/consortium/) | [Advisory Board](/advisory/)  | Partners | [Associate Members](/associatemembers/) | [GA4GH Commitments](/commitments/)| 
+| [Consortium Organization](/consortium/) | [Advisory Board](/advisory/)  | [Partners](/partners/) | [Associate Members](/associatemembers/) | [GA4GH Commitments](/commitments/)| 
 | ---  |  ----  | ---  | ---  | --- | 
 
-| [COVID-19 Response](/covidresponse/) |
-|---|
+| [COVID-19 Response](/covidresponse/) | [Response to Systematic Racism](/rsr/) 
+|---| ---|
 
 ## Overview
 
@@ -29,4 +29,4 @@ The High Quality Reference Genome (HQRG) effort is led by Dr. David Haussler at 
 ## Genome Reference Representations (GRR)
 The Genome Reference Representations (GRR) projects support research and development for a next-generation genome reference representation that can capture all human genome variation and support research on the full diversity of populations.
 
-![test](/img/HPRCMap.png)
+![map](/img/HPRCMap.png)

@@ -4,7 +4,10 @@ layout: "publications"
 url: "/publications/"
 summary:  "   "
 weight: 4
+cover: 
+    image: img/publications.png
 ---
+We would like to acknowledge the National Genome Research Institute (NHGRI) for funding the following grants supporting the creation of the human pangenome reference:  1U41HG010972, 1U01HG010971, 1U01HG010961, 1U01HG010973, 1U01HG010963, and the Human Pangenome Reference Consortium.
 
 | TITLE | AUTHORS | DOI    | Date |
 | ---         |    ---     |      ---      | ---  |
@@ -40,4 +43,3 @@ weight: 4
 |   Efficient de novo assembly of eleven human genomes using PromethION sequencing and a novel nanopore toolkit  | Shafin, K., Pesout, T., Lorig-Roach, R., et al.   | [10.1101/715722](https://doi.org/10.1101/715722)    | 2019-07-26    |
 |  Progressive alignment with Cactus: a multiple-genome aligner for the thousand-genome era   | Armstrong, J., Hickey, G., Diekhans, M., et al.   |  [10.1101/730531](https://doi.org/10.1101/730531)   |  2019-10-09   |
 
-We would like to acknowledge the National Genome Research Institute (NHGRI) for funding the following grants supporting the creation of the human pangenome reference:  1U41HG010972, 1U01HG010971, 1U01HG010961, 1U01HG010973, 1U01HG010963, and the Human Pangenome Reference Consortium.

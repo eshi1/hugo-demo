@@ -4,6 +4,8 @@ layout: "contact"
 url: "/contact/"
 summary:  "   "
 weight: 5
+cover: 
+    image: img/contact.png
 ---
 
 ## Human Pangenome Coordinating Center

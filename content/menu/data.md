@@ -4,16 +4,19 @@ layout: "data"
 url: "/data/"
 summary:  "   "
 weight: 2
+cover: 
+    image: img/dataandr.jpg
 ---
 
-### YEAR 1 SEQUENCING DATA RELEASE
+### Year 1 Sequencing Data Release
 Researchers from the Human Pangenome Reference Consortium announce the open access publication of Year 1 Sequencing data from 30 samples, representing the first major data release from this project. In addition to data produced as part of the HPRC, the release includes data from over 15 additional samples produced outside of the HPRC.
 [Learn more...](/year1/)
+
 
 ### HG002
 The Human Pangenome Reference Consortium asked the scientific community to submit assemblies for the HG002 assembly comparision project.
 The Human Reference Pangenome Consortium has organized a collection of HG002 (NA24385) data to guide the development of new assembly and evaluation strategies for our reference production efforts.
-[Learn more...](/hgo002/)
+[Learn more...](/hg002/)
 
 ### Data Use Protocol
 HPRC goals are to develop resources for the human pangenome.  These resources will include high-quality reference genomes, a pangenome tool ecosystem along with annotation of the pangenome reference. Investigators accessing the HPRC data for their research are encouraged to collaborate with the HPRC consortium whenever possible.
