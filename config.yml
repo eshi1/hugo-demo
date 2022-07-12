@@ -2,6 +2,7 @@ baseURL: ""
 languageCode: en-us
 title: Human Pangenome
 theme: PaperMod
+unsafe: true
 
 params:
   homeInfoParams:

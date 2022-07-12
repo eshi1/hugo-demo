@@ -1,7 +1,7 @@
 ---
-title: "Partners"
 url: "/partners/"
 ---
+{{< myshortcode image="/img2/c4.png">}}
 
 ## [Genome Reference Consortium](https://www.ncbi.nlm.nih.gov/grc)
 - Helps to put nucleotide sequences into chromosome context for many different genomes.

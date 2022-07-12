@@ -1,8 +1,7 @@
 ---
-title: "COVID-19 Response"
 url: "/covidresponse/"
 ---
-
+{{< myshortcode image="/img2/c7.png">}}
 
 HPRC members who are able to remain focused on this research will continue to engage in the following activities.
 

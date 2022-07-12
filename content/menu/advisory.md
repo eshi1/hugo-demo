@@ -1,7 +1,8 @@
 ---
-title: "Advisory Board"
 url: "/advisory/"
 ---
+{{< myshortcode image="/img2/c3.png">}}
+
 ## [Bob Waterston, MD, PhD](https://www.gs.washington.edu/faculty/waterston.htm)
 Bob Waterston, MD, PhD, is a Professor of Genome Sciences and Medical Genetics at University of Washington where he was the Department Chair of Genome Sciences from 2002 to 2019. His research includes working with the Sanger Institute to complete the first genomic sequence of C. elegans. These efforts were followed by his work on the Human Genome Project, which was completed in April 2003. At UW, Dr. Waterston’s work has centered around research and education in genetics, genomics, proteomics and computational biology. His primary laboratory focuses on the exploring ways to contribute to the understanding of human and the nematode worm, C. elegans, genomes.
 

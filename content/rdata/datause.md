@@ -1,8 +1,7 @@
 ---
 url: "/datause/"
 ---
-## Year 1 Sequencing Data Release
-### Data Use Protocol
+{{< myshortcode image="/img3/d2.png">}}
 April 7, 2020
 
 HPRC goals are to develop resources for the human pangenome.  These resources will include high-quality reference genomes, a pangenome tool ecosystem along with annotation of the pangenome reference. Investigators accessing the HPRC data for their research are encouraged to collaborate with the HPRC consortium whenever possible. Please visit the HPRC web site for additional information.

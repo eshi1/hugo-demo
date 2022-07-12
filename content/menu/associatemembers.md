@@ -1,7 +1,7 @@
 ---
-title: "Associate Members"
 url: "/associatemembers/"
 ---
+{{< myshortcode image="/img2/c5.png">}}
 
 Human Pangenome Reference Consortium is an international effort focused on developing an inclusive collection of human reference genomes that represent human haplotype diversity and the tool ecosystem needed to fully utilize this resource. The consortium welcomes the participation of all additional academic, industry partners and non-profit organizations. The value for these members is a highly interactive research environment that involves many aspects of the Human Pangenome Reference Research.
 

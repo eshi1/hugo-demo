@@ -1,7 +1,7 @@
 ---
 url: "/pubprotocol/"
 ---
-## Publication Protocol
+{{< myshortcode image="/img3/d4.png">}}
 
  April 7, 2020
 

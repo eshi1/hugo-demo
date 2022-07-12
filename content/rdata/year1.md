@@ -2,8 +2,7 @@
 url: "/year1/"
 ---
 
-## Year 1 Sequencing Data Release
-![year1](/img/yearone.png)
+{{< myshortcode image="/img3/d1.png">}}
 
 ### Human Pangenome Reference Consortium Announced Global Release of Year 1 Sequencing Data 
 
@@ -34,6 +33,7 @@ Support:  Support for this study comes from NHGRI:
 - Informatics tools for the use of the human genome reference (see Concept documents)
 - Technology development for complete sequencing of genomes (NOT-HG-19-011)
 
+![year1](/img/yearone.png)
 
 Contact: For additional information about the human pangenome reference consortium or apply to become an associate member, please visit the HPRC Web Site or email the HPRC Coordinating Center hprcadmin@gowustl.onmicrosoft.com.
 
