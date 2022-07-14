@@ -1,5 +1,7 @@
 ---
 url: "/partners/"
+summary: "  "
+weight: 1
 ---
 {{< myshortcode image="/img2/c4.png">}}
 

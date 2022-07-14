@@ -1,5 +1,7 @@
 ---
 url: "/consortium/"
+summary: "  "
+weight: 1
 ---
 {{< myshortcode image="/img2/c1.png">}}
 

@@ -1,5 +1,7 @@
 ---
 url: "/covidresponse/"
+summary: "  "
+weight: 1
 ---
 {{< myshortcode image="/img2/c7.png">}}
 
