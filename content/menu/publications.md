@@ -1,7 +1,7 @@
 ---
 layout: "publications"
 url: "/publications/"
-summary:  "   "
+summary:  "Publications"
 weight: 4
 publications:
  - text: Impact of Genomic Variation on Function (IGVF) Consortium

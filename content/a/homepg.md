@@ -1,6 +1,7 @@
 ---
-url: "/homepg/"
+url: "/aa/"
 summary: "  "
 weight: 1
 ---
-test
+{{< myshortcode image="/img2/c3.png">}}
+# a

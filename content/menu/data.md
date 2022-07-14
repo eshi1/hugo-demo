@@ -1,7 +1,7 @@
 ---
 layout: "data"
 url: "/data/"
-summary:  "   "
+summary:  "Data and Resources"
 weight: 2
 ---
 {{< myshortcode image="/img/p2.png" >}}

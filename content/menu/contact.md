@@ -1,7 +1,7 @@
 ---
 layout: "contact"
 url: "/contact/"
-summary:  "   "
+summary:  "Contact Us"
 weight: 5
 ---
 {{< myshortcode image="/img/p5.png" >}}

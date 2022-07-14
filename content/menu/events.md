@@ -1,7 +1,7 @@
 ---
 layout: "events"
 url: "/events/"
-summary:  "   "
+summary:  "Events and Presentations"
 weight: 3
 ---
 {{< myshortcode image="/img/p4.png" >}}

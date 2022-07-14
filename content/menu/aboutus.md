@@ -1,7 +1,6 @@
 ---
-layout: "aboutus"
 url: "/aboutus/"
-summary: "  "
+summary: About Us
 weight: 1
 ---
 {{< myshortcode image="/img/p1.png" >}}
