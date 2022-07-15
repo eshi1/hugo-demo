@@ -1,13 +1,13 @@
 baseURL: ""
 languageCode: en-us
-title: Human Pangenome
+title: Human Pangenomes
 theme: PaperMod
 unsafe: true
 
 params:
   homeInfoParams:
-    Title: "Hello"
-    Content: "Welcome to the Human Pangenome Page!"
+    Title: "Hello!"
+    Content: "Human Pangenome Page!"
   ShowShareButtons: true
   socialIcons:
     - name: twitter
