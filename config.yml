@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://eshi1.github.io/hugo-demo/"
 languageCode: en-us
 title: Human Pangenomes
 theme: PaperMod

@@ -13,7 +13,7 @@
                 <ol>
                     {{ range . }}
                     <li style="padding: 4px 0">
-                        <a href="{{.url| relURL}}" title="{{ .text }}" target="_blank">{{ .text | markdownify }}</a>
+                        <a href="{{.url}}" title="{{ .text }}" target="_blank">{{ .text | markdownify }}</a>
                     </li>
                     {{ end }}
                 </ol>
